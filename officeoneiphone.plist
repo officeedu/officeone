@@ -19,11 +19,11 @@
                                <key>bundle-identifier</key>
                                <string>vn.viettel.dmsone-lite</string>
                                <key>bundle-version</key>
-                               <string>1.2.3</string>
+                               <string>1.1</string>
                                <key>kind</key>
                                <string>software</string>
                                <key>title</key>
-                               <string>OFFICE.IIG</string>
+                               <string>OFFICE.EDU</string>
                        </dict>
                </dict>
         </array>
